@@ -1,0 +1,6 @@
+{
+  "name": "Conjugación Española — Իսպաներենի խոնարհում",
+  "description": "Aplicación interactiva para preparar el examen de conjugaciones verbales en español y armenio oriental. Ինտերակտիվ ուսումնական հավելված իսպաներենի բայերի խոնարհման քննությանը պատրաստվելու համար։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
